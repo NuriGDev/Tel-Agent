@@ -1,0 +1,18 @@
+{
+  "title": "Kodu girin",
+  "sent_to": "{address} adresine altı haneli bir kod gönderildi. On dakika geçerlidir.",
+  "digit_label": "{total} basamaktan {position}.",
+  "submit": "Devam et",
+  "submit_offline": "Sunucuya ulaşılamıyor",
+  "wrong_code": "Kod eşleşmiyor. Yeni bir kod gerekmeden önce {attempts} deneme hakkınız kaldı.",
+  "expired_title": "Bu kodun süresi doldu",
+  "expired_body": "Kodlar on dakika geçerlidir. Yeni bir kod isteyin - eskisini bulsanız bile artık çalışmaz.",
+  "expires_in": "{time} içinde sona erer",
+  "resend": "Yeni kod gönder",
+  "resend_prompt_expired": "Şu anda beklenecek bir şey yok",
+  "back": "Girişe dön",
+  "self_hosted": "Kendi sunucunuzda barındırılır · hiçbir şey bu makineden çıkmaz",
+  "offline_title": "Bu tarayıcı Tel-Agent sunucunuza ulaşamıyor",
+  "offline_body": "{host} adresinden yanıt yok. Makine hâlâ çalışıyorsa aramalarınız etkilenmez - bu, sizinle sunucu arasındaki bir ağ sorunudur. İş ağında veya VPN üzerinden bağlı olduğunuzdan emin olun.",
+  "offline_retry": "Bağlantıyı yeniden dene"
+}
